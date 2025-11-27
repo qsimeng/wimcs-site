@@ -40,6 +40,13 @@ subtitle: Faculty members and Student Representatives
 
 ---
 
+### Dr Betsy Dayana Marcela Chaparro Rico
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/b.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
+
+**Description:** [Dr Betsy Dayana Marcela Chaparro Rico](https://www.swansea.ac.uk/staff/b.d.m.chaparrorico/) is a Lecturer in Robotics in the Department of Computer Science at Swansea University.
+
+---
+
 ### Dr Noemi Picco
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/no.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
@@ -52,13 +59,6 @@ subtitle: Faculty members and Student Representatives
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/so.png" alt="Name" style="width: 200px; height: 220; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Mrs Solmaz Safari](https://www.swansea.ac.uk/staff/solmaz.safari/) is a Tutor in the Department of Computer Science at Swansea University.
-
----
-
-### Dr Betsy Dayana Marcela Chaparro Rico
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/b.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
-
-**Description:** [Dr Betsy Dayana Marcela Chaparro Rico](https://www.swansea.ac.uk/staff/b.d.m.chaparrorico/) is a Lecturer in Robotics in the Department of Computer Science at Swansea University.
 
 ---
 
