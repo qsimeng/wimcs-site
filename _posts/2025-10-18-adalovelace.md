@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/ada_0.png
 ---
 
 <div style="text-align: justify;">
-Time: October 20th, 16:00 pm.
+Time: October 20th, 4:00 pm.
 </div>
 
 <div style="text-align: justify;">
