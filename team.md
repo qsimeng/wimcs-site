@@ -90,14 +90,14 @@ subtitle: Faculty members and Student Representatives
 
 ---
 
-### Year 3 Student Representative
+### UG Year 3 WiMACS Student Representative
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/ma.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 **Description:** Tanaka Masunzambwa is also the President of the Women in Engineering Society and a Student Ambassador.
 
 ---
 
-### Year 2 Student Representatives
+### UG Year 2 WiMACS Student Representative
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/la.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/kaito.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
@@ -106,13 +106,13 @@ subtitle: Faculty members and Student Representatives
 
 ---
 
-### Year 1 Student Representatives
+### UG Year 1 WiMACS Student Representative
 
 **Description:** Muniird Adau, Tanusha Sivaji, Keiia Creeden, Lalitha Vemal Pournamy, Isatou Sowe, Gough Daisy.
 
 ---
 
-### Year 0 Student Representative
+### UG Year 0 WiMACS Student Representative
 
 **Description:** Samurah Rahman.
 
