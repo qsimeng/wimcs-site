@@ -120,13 +120,12 @@ subtitle: Faculty members and Student Representatives
 ### Former Member: Dr Lu Zhang
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/l.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
-**Description:** Lu Zhang is a Lecturer in the Department of Computer Science at Swansea University.
-
+**Description:** [Dr Lu Zhang](https://www.lborolondon.ac.uk/staff/lu-zhang/) is a Lecturer at Loughborough University London.
 ---
 
 ### Former Member: Dr Yuanbo Wu
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/y.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
-**Description:** [Dr Yuanbo Wu](https://www.swansea.ac.uk/staff/l.y.wu/) is a Senior Lecturer in the Department of Computer Science at Swansea University.
+**Description:** [Dr Yuanbo Wu](https://sites.google.com/site/linwuuq/home?pli=1&authuser=0) is a Senior Lecturer at University of Warwick.
 
 
