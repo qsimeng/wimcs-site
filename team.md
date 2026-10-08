@@ -26,17 +26,10 @@ subtitle: Faculty members and Student Representatives
 
 ---
 
-### Dr Alma Rahat
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/al.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
-  
-**Description:** [Associate Professor Alma Rahat](https://www.swansea.ac.uk/staff/a.a.m.rahat/) is the Equality, Diversity and Inclusivity (EDI) Lead for the School of Mathematics and Computer Science.
-
----
-
 ### Dr Megan Venn-Wycherley
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/megan.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
-**Description:** [Dr Megan Venn-Wycherley](https://www.swansea.ac.uk/staff/megan.venn-wycherley/) is a Lecturer in Educational, Historical and Philosophical Foundations of Computer Science at Swansea University. She is the Equality, Diversity and Inclusivity (EDI) Lead for Computer Science Department.
+**Description:** [Dr Megan Venn-Wycherley](https://www.swansea.ac.uk/staff/megan.venn-wycherley/) is a Lecturer in Educational, Historical and Philosophical Foundations of Computer Science at Swansea University. She is also the EDI Lead for Computer Science Department.
 
 ---
 
@@ -50,7 +43,7 @@ subtitle: Faculty members and Student Representatives
 ### Dr Noemi Picco
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/no.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
-**Description:** [Dr Noemi Picco](https://www.swansea.ac.uk/staff/noemi.picco/) is a Senior Lecturer in the Department of Mathematics at Swansea University. She is the Equality, Diversity and Inclusivity (EDI) Lead for the Mathematics Department.
+**Description:** [Dr Noemi Picco](https://www.swansea.ac.uk/staff/noemi.picco/) is a Senior Lecturer and EDI lead in the Department of Mathematics at Swansea University.
 
 
 ---
@@ -86,18 +79,11 @@ subtitle: Faculty members and Student Representatives
 ### Ms Casey Hopkins
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/c.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
-**Description:** [Ms Casey Hopkins](https://www.swansea.ac.uk/staff/c.l.hopkins/) is a Senior Lecturer in the Department of Computer Science at Swansea University.
+**Description:** [Ms Casey Hopkins](https://www.swansea.ac.uk/staff/c.l.hopkins/) is an Associate Professor in the Department of Computer Science at Swansea University.
 
 ---
 
 ### UG Year 3 WiMACS Student Representative
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/ma.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
-
-**Description:** Tanaka Masunzambwa is also the President of the Women in Engineering Society and a Student Ambassador.
-
----
-
-### UG Year 2 WiMACS Student Representative
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/la.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/kaito.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
@@ -106,16 +92,29 @@ subtitle: Faculty members and Student Representatives
 
 ---
 
-### UG Year 1 WiMACS Student Representative
+### UG Year 2 WiMACS Student Representative
 
 **Description:** Muniird Adau, Tanusha Sivaji, Keiia Creeden, Lalitha Vemal Pournamy, Isatou Sowe, Gough Daisy.
 
 ---
 
-### UG Year 0 WiMACS Student Representative
+### UG Year 1 WiMACS Student Representative
 
 **Description:** Samurah Rahman.
 
+---
+
+### Former UG Year 3 WiMACS Student Representative
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/ma.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
+
+**Description:** Tanaka Masunzambwa is also the President of the Women in Engineering Society and a Student Ambassador.
+
+---
+
+### Former Member Dr Alma Rahat
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/al.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
+  
+**Description:** [Dr Alma Rahat](https://www.lboro.ac.uk/departments/compsci/staff/alma-rahat/) is a Reader in Data Science & Decision Intelligence at Loughborough University.
 ---
 
 ### Former Member: Dr Lu Zhang
