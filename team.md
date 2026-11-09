@@ -12,7 +12,7 @@ title: Team
 
 
 
-## Leadership
+## Core Member
 
 #### Professor Elaine Crooks
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/e.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
