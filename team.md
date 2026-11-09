@@ -47,9 +47,14 @@ subtitle: Faculty members and Student Representatives
 **Description:** [Dr Noemi Picco](https://www.swansea.ac.uk/staff/noemi.picco/) is a Senior Lecturer and EDI lead in the Department of Mathematics at Swansea University.
 
 
+---
 
+### Student Representatives
+
+**Description:** Lakshmi Venugopal, Daniel Rosabeth, Lalitha Vemal Pournamy, Samurah Rahman.
 
 ---
+
 ## Female Faculty Members in the Department of Mathematics and Computer Science
 
 
@@ -93,11 +98,7 @@ subtitle: Faculty members and Student Representatives
 
 **Description:** [Ms Casey Hopkins](https://www.swansea.ac.uk/staff/c.l.hopkins/) is an Associate Professor in the Department of Computer Science at Swansea University.
 
----
 
-### UG Year 3/2/1 WiMACS Student Representatives
-
-**Description:** Lakshmi Venugopal, Daniel Rosabeth, Lalitha Vemal Pournamy, Samurah Rahman.
 
 ---
 
