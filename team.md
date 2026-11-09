@@ -51,7 +51,13 @@ subtitle: Leadership
 
 ### Student Representatives
 
-**Description:** Lakshmi Venugopal, Daniel Rosabeth, Lalitha Vemal Pournamy, Samurah Rahman.
+**Description:** Lakshmi Venugopal
+
+**Description:** Daniel Rosabeth
+
+**Description:** Lalitha Vemal Pournamy
+
+**Description:** Samurah Rahman
 
 ---
 
@@ -98,14 +104,13 @@ subtitle: Leadership
 
 **Description:** [Ms Casey Hopkins](https://www.swansea.ac.uk/staff/c.l.hopkins/) is an Associate Professor in the Department of Computer Science at Swansea University.
 
-
-
 ---
 
 ### Former Member Dr Alma Rahat
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/al.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
   
 **Description:** [Dr Alma Rahat](https://www.lboro.ac.uk/departments/compsci/staff/alma-rahat/) is a Reader in Data Science & Decision Intelligence at Loughborough University.
+
 ---
 
 
