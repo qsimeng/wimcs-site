@@ -9,7 +9,7 @@ subtitle: Leadership
 #### Dr Simeng Qiu
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/s.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
-**Description:** [Dr Simeng Qiu](https://www.swansea.ac.uk/staff/simeng.qiu/) is a Lecturer in Computational Imaging in the Department of Computer Science at Swansea University..
+**Description:** [Dr Simeng Qiu](https://www.swansea.ac.uk/staff/simeng.qiu/) is a Lecturer in Computational Imaging in the Department of Computer Science at Swansea University.
 
 ---
 
