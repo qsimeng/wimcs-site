@@ -52,12 +52,6 @@ subtitle: Faculty members and Student Representatives
 ---
 ## Female Faculty Members in the Department of Mathematics and Computer Science
 
-#### Mrs Solmaz Safari
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/so.png" alt="Name" style="width: 200px; height: 220; object-fit: cover; border-radius: 50%;">
-
-**Description:** [Mrs Solmaz Safari](https://www.swansea.ac.uk/staff/solmaz.safari/) is a Tutor in the Department of Computer Science at Swansea University.
-
---- 
 
 #### Professor Jen Pearson
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/j.png" alt="Name" style="width: 200px; height: 220; object-fit: cover; border-radius: 50%;">
@@ -65,6 +59,20 @@ subtitle: Faculty members and Student Representatives
 **Description:** [Professor Jen Pearson](https://www.swansea.ac.uk/staff/j.pearson/) is in the Department of Computer Science at Swansea University.
 
 ---
+
+#### Dr Nelly Villamizar
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/ne.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
+
+**Description:** [Dr Nelly Villamizar](https://www.swansea.ac.uk/staff/n.y.villamizar/) is an Associate Professor in the Department of Mathematics at Swansea University.
+
+--- 
+
+#### Mrs Solmaz Safari
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/so.png" alt="Name" style="width: 170px; height: 170; object-fit: cover; border-radius: 50%;">
+
+**Description:** [Mrs Solmaz Safari](https://www.swansea.ac.uk/staff/solmaz.safari/) is a Tutor in the Department of Computer Science at Swansea University.
+
+--- 
 
 #### Dr Olga Petrovska
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/o.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
