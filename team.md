@@ -68,7 +68,7 @@ subtitle: Faculty members and Student Representatives
 --- 
 
 #### Mrs Solmaz Safari
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/so.png" alt="Name" style="width: 170px; height: 170; object-fit: cover; border-radius: 50%;">
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/so.png" alt="Name" style="width: 170px; height: auto; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Mrs Solmaz Safari](https://www.swansea.ac.uk/staff/solmaz.safari/) is a Tutor in the Department of Computer Science at Swansea University.
 
