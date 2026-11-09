@@ -60,7 +60,7 @@ UG Year 2: Lalitha Vemal Pournamy
 
 UG Year 1: Samurah Rahman
 
----
+
 
 ## Female Faculty Members in the Department of Mathematics and Computer Science
 
