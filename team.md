@@ -46,16 +46,18 @@ subtitle: Faculty members and Student Representatives
 
 **Description:** [Dr Noemi Picco](https://www.swansea.ac.uk/staff/noemi.picco/) is a Senior Lecturer and EDI lead in the Department of Mathematics at Swansea University.
 
----
 
-## Group Members
+
+
+---
+## Female Faculty Members in the Department of Mathematics and Computer Science
 
 #### Mrs Solmaz Safari
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/so.png" alt="Name" style="width: 200px; height: 220; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Mrs Solmaz Safari](https://www.swansea.ac.uk/staff/solmaz.safari/) is a Tutor in the Department of Computer Science at Swansea University.
 
----
+--- 
 
 #### Professor Jen Pearson
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/j.png" alt="Name" style="width: 200px; height: 220; object-fit: cover; border-radius: 50%;">
