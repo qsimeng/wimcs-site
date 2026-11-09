@@ -30,7 +30,7 @@ subtitle: Faculty members and Student Representatives
 #### Dr Megan Venn-Wycherley
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/megan.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
-**Description:** [Dr Megan Venn-Wycherley](https://www.swansea.ac.uk/staff/megan.venn-wycherley/) is a Lecturer in Educational, Historical and Philosophical Foundations of Computer Science at Swansea University. She is also the EDI Lead for Computer Science Department.
+**Description:** [Dr Megan Venn-Wycherley](https://www.swansea.ac.uk/staff/megan.venn-wycherley/) is a Lecturer in Educational, Historical and Philosophical Foundations and the EDI Lead for Computer Science Department.
 
 ---
 
