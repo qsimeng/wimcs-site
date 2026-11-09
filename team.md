@@ -23,7 +23,7 @@ subtitle: Faculty members and Student Representatives
 #### Dr Monika Seisenberger
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/m.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
   
-**Description:** [Associate Professor Monika Seisenberger](https://www.swansea.ac.uk/staff/m.seisenberger/) is the Deputy Head of Computer Science Department.
+**Description:** [Dr Monika Seisenberger](https://www.swansea.ac.uk/staff/m.seisenberger/) is an associate professor in the Department of Computer Science, Swansea University. 
 
 ---
 
