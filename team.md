@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Team
+subtitle: Leadership
 ---
 
 ## Leadership
