@@ -4,104 +4,91 @@ title: Team
 subtitle: Faculty members and Student Representatives
 ---
 
-## Leadership
+- Leadership
 
-### Dr Simeng Qiu
+#### Dr Simeng Qiu
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/s.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Dr Simeng Qiu](https://www.swansea.ac.uk/staff/simeng.qiu/) is a Lecturer in Computational Imaging in the Department of Computer Science at Swansea University..
 
 ---
 
-### Professor Elaine Crooks
+#### Professor Elaine Crooks
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/e.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Professor Elaine Crooks](https://www.swansea.ac.uk/staff/e.c.m.crooks/) is the Head of School of Mathematics and Computer Science.
 
 ---
 
-### Dr Monika Seisenberger
+#### Dr Monika Seisenberger
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/m.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
   
 **Description:** [Associate Professor Monika Seisenberger](https://www.swansea.ac.uk/staff/m.seisenberger/) is the Deputy Head of Computer Science Department.
 
 ---
 
-### Dr Megan Venn-Wycherley
+#### Dr Megan Venn-Wycherley
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/megan.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Dr Megan Venn-Wycherley](https://www.swansea.ac.uk/staff/megan.venn-wycherley/) is a Lecturer in Educational, Historical and Philosophical Foundations of Computer Science at Swansea University. She is also the EDI Lead for Computer Science Department.
 
 ---
 
-### Dr Betsy Dayana Marcela Chaparro Rico
+#### Dr Betsy Dayana Marcela Chaparro Rico
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/b.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Dr Betsy Dayana Marcela Chaparro Rico](https://www.swansea.ac.uk/staff/b.d.m.chaparrorico/) is a Lecturer in Robotics in the Department of Computer Science at Swansea University.
 
 ---
 
-### Dr Noemi Picco
+#### Dr Noemi Picco
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/no.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Dr Noemi Picco](https://www.swansea.ac.uk/staff/noemi.picco/) is a Senior Lecturer and EDI lead in the Department of Mathematics at Swansea University.
 
 
-## Women Faculty Members in Mathematics and Computer Science
+- Women Faculty Members in Mathematics and Computer Science
 
-### Mrs Solmaz Safari
+#### Mrs Solmaz Safari
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/so.png" alt="Name" style="width: 200px; height: 220; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Mrs Solmaz Safari](https://www.swansea.ac.uk/staff/solmaz.safari/) is a Tutor in the Department of Computer Science at Swansea University.
 
 ---
 
-### Professor Jen Pearson
+#### Professor Jen Pearson
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/j.png" alt="Name" style="width: 200px; height: 220; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Professor Jen Pearson](https://www.swansea.ac.uk/staff/j.pearson/) is in the Department of Computer Science at Swansea University.
 
 ---
 
-### Dr Olga Petrovska
+#### Dr Olga Petrovska
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/o.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Dr Olga Petrovska](https://www.swansea.ac.uk/staff/o.petrovska/) is a Teaching Fellow in the Department of Computer Science at Swansea University.
 
 ---
 
-### Dr Nelly Villamizar
+#### Dr Nelly Villamizar
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/ne.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Dr Nelly Villamizar](https://www.swansea.ac.uk/staff/n.y.villamizar/) is an Associate Professor in the Department of Mathematics at Swansea University.
 
 ---
 
-### Ms Casey Hopkins
+#### Ms Casey Hopkins
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/c.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 **Description:** [Ms Casey Hopkins](https://www.swansea.ac.uk/staff/c.l.hopkins/) is an Associate Professor in the Department of Computer Science at Swansea University.
 
 ---
 
-### UG Year 3 WiMACS Student Representative
+### UG Year 3/2/1 WiMACS Student Representatives
 
-**Description:** Lakshmi Venugopal, Kaito Onyejeli, Safia Fareed, Chaotiana, and Rosabeth.
-
----
-
-### UG Year 2 WiMACS Student Representative
-
-**Description:** Muniird Adau, Tanusha Sivaji, Keiia Creeden, Lalitha Vemal Pournamy, Isatou Sowe, Gough Daisy.
+**Description:** Lakshmi Venugopal, Daniel Rosabeth, Lalitha Vemal Pournamy, Samurah Rahman.
 
 ---
-
-### UG Year 1 WiMACS Student Representative
-
-**Description:** Samurah Rahman.
-
----
-
 
 ### Former Member Dr Alma Rahat
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/al.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
