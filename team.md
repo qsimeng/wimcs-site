@@ -114,4 +114,8 @@ UG Year 1: Samurah Rahman
 
 ---
 
+### Former Member Dr Lu Zhang
+<img src="https://qsimeng.github.io/wimcs-site/assets/img/l.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
+  
+**Description:** [Dr Lu Zhang](https://www.lborolondon.ac.uk/staff/lu-zhang/) is Lecturer in AI at Loughborough University, London.
 
