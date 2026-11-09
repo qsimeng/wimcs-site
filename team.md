@@ -4,6 +4,7 @@ title: Team
 subtitle: Faculty members and Student Representatives
 ---
 
+## Leadership
 
 ### Dr Simeng Qiu
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/s.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
@@ -46,7 +47,7 @@ subtitle: Faculty members and Student Representatives
 **Description:** [Dr Noemi Picco](https://www.swansea.ac.uk/staff/noemi.picco/) is a Senior Lecturer and EDI lead in the Department of Mathematics at Swansea University.
 
 
----
+## Women Faculty Members in Mathematics and Computer Science
 
 ### Mrs Solmaz Safari
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/so.png" alt="Name" style="width: 200px; height: 220; object-fit: cover; border-radius: 50%;">
@@ -84,9 +85,6 @@ subtitle: Faculty members and Student Representatives
 ---
 
 ### UG Year 3 WiMACS Student Representative
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/la.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
-
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/kaito.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
 
 **Description:** Lakshmi Venugopal, Kaito Onyejeli, Safia Fareed, Chaotiana, and Rosabeth.
 
@@ -104,28 +102,11 @@ subtitle: Faculty members and Student Representatives
 
 ---
 
-### Former UG Year 3 WiMACS Student Representative
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/ma.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
-
-**Description:** Tanaka Masunzambwa is also the President of the Women in Engineering Society and a Student Ambassador.
-
----
 
 ### Former Member Dr Alma Rahat
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/al.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
   
 **Description:** [Dr Alma Rahat](https://www.lboro.ac.uk/departments/compsci/staff/alma-rahat/) is a Reader in Data Science & Decision Intelligence at Loughborough University.
 ---
-
-### Former Member: Dr Lu Zhang
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/l.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
-
-**Description:** [Dr Lu Zhang](https://www.lborolondon.ac.uk/staff/lu-zhang/) is a Lecturer at Loughborough University London.
----
-
-### Former Member: Dr Yuanbo Wu
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/y.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
-
-**Description:** [Dr Yuanbo Wu](https://sites.google.com/site/linwuuq/home?pli=1&authuser=0) is a Senior Lecturer at University of Warwick.
 
 
