@@ -10,7 +10,7 @@ title: Team
 
 **Description:** [Dr Simeng Qiu](https://www.swansea.ac.uk/staff/simeng.qiu/) is a Lecturer in Computational Imaging in the Department of Computer Science at Swansea University.
 
----
+
 
 ## Leadership
 
