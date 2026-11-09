@@ -51,13 +51,13 @@ subtitle: Leadership
 
 ### Student Representatives
 
-**Description:** Lakshmi Venugopal
+UG Year 3: Lakshmi Venugopal
 
-**Description:** Daniel Rosabeth
+UG Year 3: Daniel Rosabeth
 
-**Description:** Lalitha Vemal Pournamy
+UG Year 2: Lalitha Vemal Pournamy
 
-**Description:** Samurah Rahman
+UG Year 1: Samurah Rahman
 
 ---
 
