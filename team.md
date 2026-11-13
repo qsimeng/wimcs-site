@@ -94,19 +94,6 @@ UG Year 1: Samurah Rahman
 
 ---
 
-#### Dr Nelly Villamizar
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/ne.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
-
-**Description:** [Dr Nelly Villamizar](https://www.swansea.ac.uk/staff/n.y.villamizar/) is an Associate Professor in the Department of Mathematics at Swansea University.
-
----
-
-#### Ms Casey Hopkins
-<img src="https://qsimeng.github.io/wimcs-site/assets/img/c.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
-
-**Description:** [Ms Casey Hopkins](https://www.swansea.ac.uk/staff/c.l.hopkins/) is an Associate Professor in the Department of Computer Science at Swansea University.
-
----
 
 ### Former Member Dr Alma Rahat
 <img src="https://qsimeng.github.io/wimcs-site/assets/img/al.png" alt="Name" style="width: 200px; height: auto; object-fit: cover; border-radius: 50%;">
